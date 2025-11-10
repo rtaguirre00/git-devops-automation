@@ -9,3 +9,7 @@ Bem-vindo ao repositório Projeto de exemplo para mostrar o uso básico do Git e
 - Markdown
 
 ### Estrutura do Projeto
+
+---
+
+## Como Trabalhar com o Git
